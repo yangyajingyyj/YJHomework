@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintList", "PrintList.csproj", "{9E56DD57-0FF7-4415-888A-B9A64F71715E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clock", "..\clock\clock.csproj", "{E3FAE45E-9BC0-46F9-98A8-88321C4FAF59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E56DD57-0FF7-4415-888A-B9A64F71715E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E56DD57-0FF7-4415-888A-B9A64F71715E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E56DD57-0FF7-4415-888A-B9A64F71715E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E56DD57-0FF7-4415-888A-B9A64F71715E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3FAE45E-9BC0-46F9-98A8-88321C4FAF59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3FAE45E-9BC0-46F9-98A8-88321C4FAF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3FAE45E-9BC0-46F9-98A8-88321C4FAF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3FAE45E-9BC0-46F9-98A8-88321C4FAF59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F334DDD3-772C-40B3-89E4-7E4891C73A6D}
+	EndGlobalSection
+EndGlobal
